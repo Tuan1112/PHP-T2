@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 300">
+  <!-- Background gradient -->
+  <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#ff8a00"/>
+    <stop offset="100%" style="stop-color:#ff4b00"/>
+  </linearGradient>
+  <rect width="1920" height="300" fill="url(#bg-gradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="150" r="80" fill="#ffde59" opacity="0.7"/>
+  <circle cx="1720" cy="150" r="80" fill="#ffde59" opacity="0.7"/>
+  
+  <!-- Palm tree silhouettes -->
+  <path d="M300,300 C320,250 340,200 320,150 C340,160 360,170 380,160 C370,180 360,200 370,220 C350,200 330,180 300,300" fill="#105718"/>
+  <path d="M1620,300 C1600,250 1580,200 1600,150 C1580,160 1560,170 1540,160 C1550,180 1560,200 1550,220 C1570,200 1590,180 1620,300" fill="#105718"/>
+  
+  <!-- Beach waves -->
+  <path d="M0,280 C200,260 400,290 600,270 C800,250 1000,280 1200,260 C1400,240 1600,270 1800,250 C1860,245 1900,240 1920,245 L1920,300 L0,300 Z" fill="#00b8ff" opacity="0.5"/>
+  
+  <!-- Main text -->
+  <text x="960" y="140" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="white">SALE MÙA HÈ</text>
+  <text x="960" y="200" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="white">GIẢM GIÁ LÊN ĐẾN 70%</text>
+  
+  <!-- Stars -->
+  <path d="M500,80 L510,100 L530,100 L515,115 L520,135 L500,125 L480,135 L485,115 L470,100 L490,100 Z" fill="white"/>
+  <path d="M1420,80 L1430,100 L1450,100 L1435,115 L1440,135 L1420,125 L1400,135 L1405,115 L1390,100 L1410,100 Z" fill="white"/>
+  <path d="M960,60 L970,80 L990,80 L975,95 L980,115 L960,105 L940,115 L945,95 L930,80 L950,80 Z" fill="white"/>
+</svg>
